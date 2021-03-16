@@ -1,0 +1,1 @@
+egg,salt,pepper,pan,fork.
